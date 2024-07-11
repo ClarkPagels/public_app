@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "PetApp",
+    "slug": "PetApp",
+    "version": "1.0.0",
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "package": "com.clarkpagels.PetApp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "40d352ba-3216-4ef2-821d-2f4b1c917cf3"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.clarkpagels.PetApp"
+    }
+  },
+  "name": "PetApp"
+}

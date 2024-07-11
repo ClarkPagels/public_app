@@ -1,2 +1,1 @@
-# public_app
- public version of petAPP
+Made by Clark Pagels and Yuna Park for  Mobile App Development
